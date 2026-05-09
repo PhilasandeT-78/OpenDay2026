@@ -583,7 +583,7 @@ components.html(
 # AUTO ROTATE EVERY 10 SECONDS
 # =========================================================
 
-time.sleep(10)
+time.sleep(20)
 
 st.session_state.career_index = (
     st.session_state.career_index + 1
